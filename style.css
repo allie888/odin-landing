@@ -229,6 +229,7 @@ button {
     color: #F9FAF8;
     border-radius: 8px;
     border-style: none;
+    cursor: pointer;
 }
 
 .border-button {
