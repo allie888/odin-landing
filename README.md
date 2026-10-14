@@ -6,7 +6,7 @@ Provided design image reference: [Design](https://raw.githubusercontent.com/TheO
 
 ## Technologies
 - Languages: HTML5, CSS3 (Flexbox only)
-- Font-family: Raleway via Google Fonts
+- Font-family: Norse by Joel Carrouche via [FontSpace](https://www.fontspace.com/norse-font-f21080), Raleway via Google Fonts
 
 ## Features
 
